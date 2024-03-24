@@ -1,0 +1,29 @@
+# Python Project .gitignore
+
+# Python Bytecode
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Environment files
+.env
+.venv
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
